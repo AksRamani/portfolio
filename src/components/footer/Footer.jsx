@@ -16,8 +16,8 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-      <a href="https://www.linkedin.com/in/meri-gogichashvili/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
-      <a href="https://github.com/Meri-MG" target="_blank" rel="noreferrer" ><FaGithub /></a>
+      <a href="https://www.linkedin.com/in/aᴀᴋᴀsʜ-rᴀᴍᴀɴɪ-541321235/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
+      <a href="https://github.com/AksRamnai" target="_blank" rel="noreferrer" ><FaGithub /></a>
       <a href="https://www.instagram.com/aks_ramani" target="_blank" rel="noreferrer" ><FaInstagram /></a>
       
       </div>
